@@ -8,7 +8,7 @@
         "summary": "tredzer blah",
         "detailedDescription": "As a doofer at Tredz blah blah blah",
         "icon": "mdi-bike",
-        "reveal": false,
+        "reveal": false
     },
     {
         "company": "ATR",
@@ -18,7 +18,7 @@
         "summary": "atr blah",
         "detailedDescription": "As a doofer at ATR blah blah blah",
         "icon": "mdi-horse",
-        "reveal": false,
+        "reveal": false
     }
   ]
 }
