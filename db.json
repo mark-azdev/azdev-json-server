@@ -23,7 +23,6 @@
   ],
   "users": [
     {
-      "id": 1,
       "name": "Mark Brown",
       "email": "mark@azdev.space",
       "token": "jwt-fake-token",
