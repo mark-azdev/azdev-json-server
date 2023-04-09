@@ -21,5 +21,12 @@
         "reveal": false
     }
   ],
-  "users": []
+  "users": [
+    {
+      "name": "Mark Brown",
+      "email": "mark@azdev.space",
+      "token": "jwt-fake-token",
+      "password": "password123"
+    }
+  ]
 }
