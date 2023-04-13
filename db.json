@@ -1,6 +1,6 @@
 {
 	"roles": [{
-			"id": "1",
+			"id": 1,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -19,7 +19,7 @@
 			"url": "https://www.tredz.co.uk/"
 		},
 		{
-			"id": "2",
+			"id": 2,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -38,7 +38,7 @@
 			"url": "https://www.attheraces.com/"
 		},
 		{
-			"id": "3",
+			"id": 3,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -57,7 +57,7 @@
 			"url": "https://propeltech.co.uk/"
 		},
 		{
-			"id": "4",
+			"id": 4,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -76,7 +76,7 @@
 			"url": "https://www.r2conline.com/"
 		},
 		{
-			"id": "5",
+			"id": 5,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -95,7 +95,7 @@
 			"url": "https://boomwriter.com/"
 		},
 		{
-			"id": "6",
+			"id": 6,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -114,7 +114,7 @@
 			"url": "https://www.crispthinking.com/"
 		},
 		{
-			"id": "7",
+			"id": 7,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -132,7 +132,7 @@
 			"summary": "C#, MVC, JQuery, SQL"
 		},
 		{
-			"id": "8",
+			"id": 8,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -151,7 +151,7 @@
 			"url": "https://www.sky.com/"
 		},
 		{
-			"id": "9",
+			"id": 9,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -170,7 +170,7 @@
 			"url": "https://www.travelsouthyorkshire.com/"
 		},
 		{
-			"id": "10",
+			"id": 10,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -189,7 +189,7 @@
 			"url": "https://www.parkdeanresorts.co.uk/"
 		},
 		{
-			"id": "11",
+			"id": 11,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
@@ -208,7 +208,7 @@
 			"url": "https://www.myknowledgemap.com/"
 		},
 		{
-			"id": "12",
+			"id": 12,
 			"achievements": [
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
 				"Upgraded a system from dot net framework 4.x to dot net 6.",
