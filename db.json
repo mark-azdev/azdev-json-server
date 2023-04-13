@@ -1,146 +1,238 @@
 {
-  "roles": [
-    {
-        "id": 1,
-        "company": "Tredz",
-        "position": "Senior .Net Developer",
-        "period": "October 2022 - April 2023",
-        "jobType": "permanent",
-        "summary": "tredzer blah",
-        "detailedDescription": "As a doofer at Tredz blah blah blah",
-        "icon": "mdi-bike",
-        "reveal": false
-    },
-    {
-        "id": 2,
-        "company": "ATR",
-        "position": "Senior .Net Developer",
-        "period":   "March 2020 - September 2022",
-        "jobType": "permanent",
-        "summary": "atr blah",
-        "detailedDescription": "As a doofer at ATR blah blah blah",
-        "icon": "mdi-horse",
-        "reveal": false
-    },
-    {
-        "id": 3,
-        "company": "Tredz",
-        "position": "Senior .Net Developer",
-        "period": "October 2022 - April 2023",
-        "jobType": "permanent",
-        "summary": "tredzer blah",
-        "detailedDescription": "As a doofer at Tredz blah blah blah",
-        "icon": "mdi-bike",
-        "reveal": false
-    },
-    {
-        "id": 4,
-        "company": "ATR",
-        "position": "Senior .Net Developer",
-        "period":   "March 2020 - September 2022",
-        "jobType": "permanent",
-        "summary": "atr blah",
-        "detailedDescription": "As a doofer at ATR blah blah blah",
-        "icon": "mdi-horse",
-        "reveal": false
-    },
-        {          
-        "id": 5,
-        "company": "Tredz",
-        "position": "Senior .Net Developer",
-        "period": "October 2022 - April 2023",
-        "jobType": "permanent",
-        "summary": "tredzer blah",
-        "detailedDescription": "As a doofer at Tredz blah blah blah",
-        "icon": "mdi-bike",
-        "reveal": false
-    },
-    {
-        "id": 6,
-        "company": "ATR",
-        "position": "Senior .Net Developer",
-        "period":   "March 2020 - September 2022",
-        "jobType": "permanent",
-        "summary": "atr blah",
-        "detailedDescription": "As a doofer at ATR blah blah blah",
-        "icon": "mdi-horse",
-        "reveal": false
-    },
-    {
-        "id": 7,
-        "company": "Tredz",
-        "position": "Senior .Net Developer",
-        "period": "October 2022 - April 2023",
-        "jobType": "permanent",
-        "summary": "tredzer blah",
-        "detailedDescription": "As a doofer at Tredz blah blah blah",
-        "icon": "mdi-bike",
-        "reveal": false
-    },
-    {
-        "id": 8,
-        "company": "ATR",
-        "position": "Senior .Net Developer",
-        "period":   "March 2020 - September 2022",
-        "jobType": "permanent",
-        "summary": "atr blah",
-        "detailedDescription": "As a doofer at ATR blah blah blah",
-        "icon": "mdi-horse",
-        "reveal": false
-    },
-    {
-        "id": 9,
-        "company": "Tredz",
-        "position": "Senior .Net Developer",
-        "period": "October 2022 - April 2023",
-        "jobType": "permanent",
-        "summary": "tredzer blah",
-        "detailedDescription": "As a doofer at Tredz blah blah blah",
-        "icon": "mdi-bike",
-        "reveal": false
-    },
-    {
-        "id": 10,
-        "company": "ATR",
-        "position": "Senior .Net Developer",
-        "period":   "March 2020 - September 2022",
-        "jobType": "permanent",
-        "summary": "atr blah",
-        "detailedDescription": "As a doofer at ATR blah blah blah",
-        "icon": "mdi-horse",
-        "reveal": false
-    },
-    {
-        "id": 11,
-        "company": "Tredz",
-        "position": "Senior .Net Developer",
-        "period": "October 2022 - April 2023",
-        "jobType": "permanent",
-        "summary": "tredzer blah",
-        "detailedDescription": "As a doofer at Tredz blah blah blah",
-        "icon": "mdi-bike",
-        "reveal": false
-    },
-    {
-        "id": 12,
-        "company": "ATR",
-        "position": "Senior .Net Developer",
-        "period":   "March 2020 - September 2022",
-        "jobType": "permanent",
-        "summary": "atr blah",
-        "detailedDescription": "As a doofer at ATR blah blah blah",
-        "icon": "mdi-horse",
-        "reveal": false
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "userName": "mbrown",
-      "name": "Mark Brown",
-      "email": "mark@azdev.space",
-      "token": "jwt-fake-token",
-      "password": "password123"
-    }
-  ]
+	"roles": [{
+			"id": "1",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "Tredz",
+			"description": "As a doofer at Tredz blah blah blah",
+			"jobType": "Permanent",
+			"period": "October 2022 - April 2023",
+			"position": "Senior .Net Developer",
+			"summary": "Microservices, RESTful Web API, C#, Dot Net 6, XUnit, Moq, EF Core, YAML",
+			"url": "https://www.tredz.co.uk/"
+		},
+		{
+			"id": "2",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "ATR",
+			"description": "As a doofer at ATR blah blah blah",
+			"jobType": "Permanent",
+			"period": "March 2020 - September 2022",
+			"position": "Senior .Net Developer",
+			"summary": "Azure, PaaS, FaaS, IaC, YAML, Docker, C#, Vue JS, SQL, Cosmos DB, Dapper",
+			"url": "https://www.attheraces.com/"
+		},
+		{
+			"id": "3",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "Pace IT",
+			"description": "As a doofer at ATR blah blah blah",
+			"jobType": "Permanent",
+			"period": "October 2019 - February 2020",
+			"position": "Senior Developer",
+			"summary": "C#, React Native",
+			"url": "https://propeltech.co.uk/"
+		},
+		{
+			"id": "4",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "R2C Online",
+			"description": "As a doofer at ATR blah blah blah",
+			"jobType": "Permanent",
+			"period": "July 2019 - October 2019",
+			"position": "Senior Developer",
+			"summary": "C#, Knockout.js, SQL",
+			"url": "https://www.r2conline.com/"
+		},
+		{
+			"id": "5",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "AxeEdge",
+			"description": "As a doofer at ATR blah blah blah",
+			"jobType": "Contract",
+			"period": "December 2017 - April 2019",
+			"position": "Senior .Net Developer",
+			"summary": "C#, MVC, JQuery, Bootstrap, SQL, React",
+			"url": "https://boomwriter.com/"
+		},
+		{
+			"id": "6",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "Crisp Thinking",
+			"description": "As a doofer at ATR blah blah blah",
+			"jobType": "Contract",
+			"period": "September 2017 - December 2017",
+			"position": "Developer",
+			"summary": "C#, .Net Core 2, Polly, Elastic Search, Bigquery",
+			"url": "https://www.crispthinking.com/"
+		},
+		{
+			"id": "7",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "RTS Solutions",
+			"description": "As a doofer at Tredz blah blah blah",
+			"jobType": "Contract",
+			"period": "December 2016 - July 2017",
+			"position": "Senior .Net Developer",
+			"summary": "C#, MVC, JQuery, SQL"
+		},
+		{
+			"id": "8",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "Sky",
+			"description": "As a doofer at Tredz blah blah blah",
+			"jobType": "Contract",
+			"period": "June 2016 - December 2016",
+			"position": "Senior .Net Developer",
+			"summary": "Microservices, C#, React, RESTful Web API, SQL, EF",
+			"url": "https://www.sky.com/"
+		},
+		{
+			"id": "9",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "SYPTE",
+			"description": "As a doofer at Tredz blah blah blah",
+			"jobType": "Contract",
+			"period": "February 2016 - May 2016",
+			"position": "Lead Developer",
+			"summary": "VB.Net, SQL, EF, XML, XSLT, XSLFO, Web Api, Knockout, Bootstrap",
+			"url": "https://www.travelsouthyorkshire.com/"
+		},
+		{
+			"id": "10",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "Park Dean Holidays",
+			"description": "As a doofer at Tredz blah blah blah",
+			"jobType": "Contract",
+			"period": "January 2016 - February 2016",
+			"position": ".Net Developer",
+			"summary": "C#, MVC, SiteCore",
+			"url": "https://www.parkdeanresorts.co.uk/"
+		},
+		{
+			"id": "11",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "MyKnowledgeMap",
+			"description": "As a doofer at Tredz blah blah blah",
+			"jobType": "Contract",
+			"period": "May 2015 - Oct 2015",
+			"position": "Developer",
+			"summary": "C#, Web API, AngularJS, EF, D3",
+			"url": "https://www.myknowledgemap.com/"
+		},
+		{
+			"id": "12",
+			"achievements": [
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Upgraded a system from dot net framework 4.x to dot net 6.",
+				"Created an Azure Devops YAML pipeline for continuous deployment of the system above.",
+				"Developed a dot net 6 C# RESTful Web API.",
+				"Worked on a Windows Forms app to consume the Web API.",
+				"Integrated the Web API and Forms App with Azure Service Bus and SignalR.",
+				"Retrospectively added Unit Tests to the Web API and Forms App."
+			],
+			"company": "The Test Factory",
+			"description": "As a doofer at Tredz blah blah blah",
+			"jobType": "Contract",
+			"period": "Feb 2015 - May 2015",
+			"position": "Senior Developer",
+			"summary": "MVC 5, KnockoutJS, HTML 5, CSS3, EF",
+			"url": "https://www.gl-education.com/"
+		}
+	],
+	"users": [{
+		"id": 1,
+		"userName": "mbrown",
+		"name": "Mark Brown",
+		"email": "mark@azdev.space",
+		"token": "jwt-fake-token",
+		"password": "password123"
+	}]
 }
